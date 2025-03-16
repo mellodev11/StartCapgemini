@@ -14,7 +14,7 @@ public class Alg2 {
         System.out.println("escreva numero 2");
         int n2 = sc.nextInt();
         double soma = n1 + n2;
-        System.out.println("A soma é :" + soma);
+        System.out.println("A soma é nanan :" + soma);
 
 
 
